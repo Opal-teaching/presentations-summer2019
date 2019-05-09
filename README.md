@@ -28,11 +28,11 @@ Complete the following assignments, made by David Herrera in summer 2018. They'r
 
 * [Assignment 1](https://github.com/Opal-teaching/messaging-app) ("Hello World the Opal Way", in the repository "messaging-app"): Given on day 2 of bootcamp, this assignment will teach you about the fundamentals of the Opal app frontend setup. Don't complete the whole messaging app right away, just start with "Hello World the Opal Way".
 
-* [Assignment 2](https://github.com/Opal-teaching/async_js_assignment) (in repository "async_js_assignment"): Given on day 3 of bootcamp, after the presentation on asynchronous JavaScript and Promises.
+* [Assignment 2](https://github.com/Opal-teaching/async_js_assignment) (in repository "async_js_assignment"): Given on day 3 of bootcamp, to do after the presentation on asynchronous JavaScript and Promises.
 
-* [Assignment 3](https://github.com/Opal-teaching/firebase-simple-app) (in repository "firebase-simple-app"): TBA
+* [Assignment 3](https://github.com/Opal-teaching/firebase-simple-app) (in repository "firebase-simple-app"): Given on day 4 of bootcamp, to do after the presentation on AngularJS filters and Firebase.
 
-* [Assignment 4](https://github.com/Opal-teaching/messaging-app) (finish the messaging app): TBA
+* [Assignment 4](https://github.com/Opal-teaching/messaging-app) (in repository "messaging-app"): The last assignment of bootcamp. This one can be started at any time, but you'll be best equiped to do it after the presentation on AngularJS filters and Firebase on day 4.
 
 ### Presentations
 
