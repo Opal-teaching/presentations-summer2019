@@ -1,3 +1,5 @@
+# *** MOVED TO GITLAB ***
+
 # Summer 2019 Bootcamp
 
 ## Material to Cover
